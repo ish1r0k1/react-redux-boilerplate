@@ -2,7 +2,7 @@
 
 ## Development
 
-```
+```sh
 # Run
 npm install
 npm start # Start webpack dev server listen on localhost:8080
